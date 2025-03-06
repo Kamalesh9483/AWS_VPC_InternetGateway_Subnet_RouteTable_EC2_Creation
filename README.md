@@ -1,5 +1,4 @@
 # AWS_VPC_InternetGateway_Subnet_RouteTable_EC2_Creation
-## AWS VPC and EC2 Setup  
 
 This project involves manually setting up an AWS Virtual Private Cloud (VPC) along with essential networking components and launching an EC2 instance. The setup includes:  
 
